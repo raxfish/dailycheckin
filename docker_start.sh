@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 echo "在当前目录下创建 config 文件夹"
 
 mkdir -p config
